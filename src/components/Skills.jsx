@@ -2,34 +2,24 @@ import React from "react";
 
 const skillCategories = [
   {
-    title: "Programming Languages",
-    description: "",
-    items: ["Python", "JavaScript", "C++", "C", "Java"]
+    title: "UI/UX Design",
+    description: "Understanding users and crafting intuitive flows.",
+    items: ["User Research", "Wireframing", "Prototyping", "Usability Testing"]
   },
   {
-    title: "Web Development",
-    description: "",
-    items: ["UI/UX", "HTML", "CSS", "JavaScript", "REST APIs"]
+    title: "Tools",
+    description: "Design and collaboration tools I use often.",
+    items: ["Figma", "FigJam", "Canva"]
   },
   {
-    title: "AI / Machine Learning",
-    description: "",
-    items: ["Machine Learning", "Data Analysis", "Model Training"]
+    title: "Frontend",
+    description: "Building responsive interfaces for the web.",
+    items: ["HTML", "CSS", "JavaScript", "Responsive Design"]
   },
   {
-    title: "Tools & Technologies",
-    description: "",
-    items: ["Git", "GitHub", "Cursor AI", "Docker", "FastAPI", "Figma", "VS Code", "Draw.io", "Canva"]
-  },
-  {
-    title: "Concepts",
-    description: "",
-    items: ["Data Structures", "Algorithms", "Object-Oriented Programming", "System Design Basics", "Operating Systems", "Networks"]
-  },
-  {
-    title: "Databases",
-    description: "",
-    items: ["SQL (MySQL, PostgreSQL)", "NoSQL (MongoDB)"]
+    title: "Development Tools",
+    description: "Everyday tools that support my workflow.",
+    items: ["Git", "GitHub", "VS Code"]
   }
 ];
 
